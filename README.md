@@ -19,5 +19,5 @@ To run the project locally:
 
 ```bash
 git clone https://github.com/R55THEGUY/Portfolio
-cd your-repo-name
+cd Portfolio
 # Open index.html or run your dev server
